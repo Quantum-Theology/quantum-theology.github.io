@@ -300,7 +300,7 @@ a:hover {
 }
 
 .preloader {
-  background: #fff;
+  background: rgb(8, 1, 22);
   height: 100%;
   left: 0;
   position: fixed;
@@ -321,7 +321,7 @@ a:hover {
 .sk-cube-grid .sk-cube {
   width: 33%;
   height: 33%;
-  background-color: #ffde22;
+  background-color: #ffd700;
   float: left;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
   animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
