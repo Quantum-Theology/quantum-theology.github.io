@@ -106,8 +106,8 @@ a:hover {
   border: 1px solid #4e595f;
 }
 .btn-transparent:hover, .btn-transparent:focus {
-  background-color: #57cbcc;
-  border-color: #57cbcc !important;
+  background-color: #b3001c;
+  border-color: #b3001c !important;
   color: #fff;
 }
 
@@ -159,7 +159,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #b3001c;
 }
 
 .color {
@@ -235,11 +235,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #b3001c;
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #b3001c;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -248,7 +248,7 @@ a:hover {
   text-transform: uppercase;
 }
 .btn-main:hover {
-  background: #2c9091;
+  background: #b3001c;
   color: #fff;
 }
 
@@ -438,7 +438,7 @@ a:hover {
   font-family: "Quattrocento Sans", sans-serif;
 }
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #b3001c;
 }
 
 .slick-slide {
@@ -488,7 +488,7 @@ a:hover {
   border-radius: 0 !important;
 }
 .pagination li a:focus, .pagination li a:hover, .pagination li a.active {
-  background: #57cbcc;
+  background: #b3001c;
   color: #fff;
   box-shadow: none;
 }
@@ -539,7 +539,7 @@ a:hover {
   width: 140px;
 }
 .navigation .navigation-menu li a.active {
-  color: #57cbcc !important;
+  color: #ffd700 !important;
 }
 .navigation .navigation-menu a {
   padding-left: 15px !important;
@@ -549,7 +549,7 @@ a:hover {
 }
 .navigation .navigation-menu a:hover, .navigation .navigation-menu a:focus {
   background: transparent;
-  color: #57cbcc !important;
+  color: #b39700 !important;
 }
 
 .navbar-toggle {
