@@ -587,7 +587,7 @@ a:hover {
   z-index: 99;
 }
 .hero-area .block .video-button a {
-  background: #fff;
+  background: #ffd700;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -595,7 +595,7 @@ a:hover {
   line-height: 60px;
   font-size: 20px;
   margin-left: 3px;
-  color: #57cbcc;
+  color: #e7ff00;
 }
 .hero-area .block h1 {
   font-size: 90px;
