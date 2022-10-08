@@ -176,16 +176,21 @@ li a.active {
 }
 
 /*about area*/
+.impo {
+    color: #42b3e5;
+    font-size: 30px;
+}
 
 .about h2 {
-    font-size: 90px;
+    font-size: 70px;
     color: #42b3e5;
     margin-top: 50px;
 }
 .about h4 {
     font-size: 24px;
-    color: #737373;
+    color: #2a2a2a;
     margin-bottom: 45px;
+
 }
 .about-img img {
     width: 100%;
