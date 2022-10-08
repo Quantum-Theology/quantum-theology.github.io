@@ -1,2 +1,0 @@
-# atomai.github.io
-website
