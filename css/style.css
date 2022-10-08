@@ -1,14 +1,4 @@
-/*****
-*
-*
-*Author Name : Mostafizur Rahman
-*Author URI : http://mostafiz.me/
-*Version : 1.1
-*Description : This is a responsive HTML & Bootstrap template developed by Mostafizur Rahman
-*Template URI : http://mostafiz.me/demo/doctor/
-*
-*
-****/
+
 
 body {
     margin: 0;
@@ -112,13 +102,13 @@ li a.active {
 }
 .carousel-caption h1 {
     font-size: 157px;
-    color: #fff;
+    color: #42b3e5;
     text-transform: uppercase;
     margin-bottom: 0;
 }
 .carousel-caption p {
     font-size: 40px;
-    color: #fff;
+    color: #737373;
     text-transform: uppercase;
     font-weight: bold;
     margin-top: 0;
